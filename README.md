@@ -46,6 +46,7 @@ cd LibreriaProImg
 Asegúrate de tener Python 3.9 o superior instalado junto con las dependencias necesarias:
 
 ```bash
+pip install numpy numpy
 pip install numpy matplotlib
 ```
 
